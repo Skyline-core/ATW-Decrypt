@@ -45,7 +45,7 @@ BG_PANEL = "\033[48;5;235m"
 MONO = "\033[38;5;252m"
 
 SPLASH_SECONDS = 3.0
-PROJECT_LINK = None  # pending
+PROJECT_LINK = "https://github.com/Skyline-core/ATW-Decrypt"
 IGNORED_XML_NAMES = frozenset({""})
 
 SPLASH_ART = f"""
@@ -384,7 +384,7 @@ def show_main_menu() -> None:
     print(f"{GREEN}╚{'═' * 40}╝{RESET}")
     print()
     print(f"  {MAGENTA}[1]{RESET} Desencriptar")
-    print(f"  {MAGENTA}[2]{RESET} Link de proyecto {DIM}(pendiente){RESET}")
+    print(f"  {MAGENTA}[2]{RESET} Link de proyecto")
     print(f"  {MAGENTA}[3]{RESET} Salir")
     print()
 

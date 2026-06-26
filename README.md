@@ -49,7 +49,7 @@ Verás un splash de inicio y el menú principal:
 
 ```
 [1] Desencriptar
-[2] Link de proyecto (pendiente)
+[2] Link de proyecto
 [3] Salir
 ```
 
